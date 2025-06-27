@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+git add requirements.txt
+git commit -m "Add joblib to requirements"
+git push
